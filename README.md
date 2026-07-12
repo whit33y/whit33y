@@ -63,10 +63,6 @@ Athena (NGO project): ................ <a href="https://github.com/gi-org-pl/ath
 Działaj.org App (NGO project): ....... <a href="https://github.com/gi-org-pl/dzialaj-org-app">gi-org-pl/dzialaj-org-app</a>
 </pre>
 
-**📊 Live Stats**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whit33y&theme=dark&hide_border=true)
-
 </td>
 </tr>
 </table>
