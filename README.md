@@ -32,9 +32,9 @@
 <pre>
 <a href="https://github.com/whit33y">Jakub Bryska (whit33y)</a> --------------------
 
-Role: ..... Frontend & Backend Developer
+Role: ..... Software Engineer
 Experience: .. 3 years
-Company: ..... daw-systems sp. z o.o. / Freelance
+Company: ..... Daw-systems sp. z o.o. / Freelance
 Volunteer: .... <a href="https://gi.org.pl/">Generacja Innowacja</a>
 
 Languages: .... TypeScript, JavaScript, SQL
@@ -43,9 +43,9 @@ Tools: ........ AI (Claude), Tailwind, Angular Material,
            Prisma, PostgreSQL, Nx, Docker
 
 -- Contact --------------------
-Email: ... jakubbryska2@gmail.com
-LinkedIn: ... linkedin.com/in/jakub-bryska
-GitHub: ... github.com/whit33y
+Email: ... <a href="mailto:jakubbryska2@gmail.com">jakubbryska2@gmail.com</a>
+LinkedIn: ... <a href="https://linkedin.com/in/jakub-bryska">Linkedin</a>
+GitHub: ... <a href="https://github.com/whit33y">Github</a>
 Location: ... Poznań, Poland
 
 -- Highlights --------------------
