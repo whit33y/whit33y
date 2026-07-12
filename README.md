@@ -32,7 +32,7 @@
 <pre>
 <a href="https://github.com/whit33y">Jakub Bryska (whit33y)</a> --------------------
 
-Role: ..... Software Engineer
+Role: ..... Frontend Developer (Angular/React)
 Experience: .. 3 years
 Company: ..... Daw-systems sp. z o.o. / Freelance
 Volunteer: .... <a href="https://gi.org.pl/">Generacja Innowacja</a>
