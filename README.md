@@ -36,6 +36,7 @@ Role: ..... Frontend Developer (Angular/React)
 Experience: .. 3 years
 Company: ..... Daw-systems sp. z o.o. / Freelance
 Volunteer: .... <a href="https://gi.org.pl/">Generacja Innowacja</a>
+Blogger: .... <a href="https://angular.love/author/jakub-bryska">angular.love</a>
 
 Languages: .... TypeScript, JavaScript, SQL
 Frameworks: ... Angular, React / Next.js, NestJS
